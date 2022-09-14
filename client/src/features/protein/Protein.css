@@ -1,0 +1,15 @@
+h1, h2, h3, h4 {
+    color: #000;
+}
+
+.items-for-sale-header {
+    margin: 20px;
+    margin-left: 42%;
+}
+
+.add_btn {
+    position: fixed;
+	bottom: 30px;
+	right: 30px;
+	border-radius: 20;
+}
